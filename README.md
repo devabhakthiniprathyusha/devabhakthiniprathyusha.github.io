@@ -1,1 +1,1 @@
-# devabhakthiniprathyusha.github.io
+theme: minima
