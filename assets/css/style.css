@@ -15,6 +15,17 @@
   border-radius: 50% !important;
 }
 
+.card a {
+  color: #008073;
+  margin-right: 20px;
+  -webkit-transition: color 0.3s ease;
+  -moz-transition: color 0.3s ease;
+  -o-transition: color 0.3s ease;
+  -ms-transition: color 0.3s ease;
+  transition: color 0.3s ease;
+  text-transform: uppercase;
+}
+
 .profile-pic img {
   width: 100%;
   height: auto;
@@ -700,5 +711,8 @@ small {
     margin-top: calc(var(--bs-gutter-y)*-1);
     margin-right: calc(var(--bs-gutter-x)/-2);
     margin-left: calc(var(--bs-gutter-x)/-2);
+}
+*, :after, :before {
+  box-sizing: border-box;
 }
 }
