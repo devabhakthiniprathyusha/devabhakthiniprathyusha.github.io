@@ -280,7 +280,7 @@ ul.side-nav.fixed.table-of-contents li:not(.logo) a span, ul#slide-out li:not(.l
 
 li.logo span {
   display: block;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .brand-logo h1 {
@@ -392,9 +392,7 @@ h3 {
   font-weight: 500;
 }
 
-.card .card-content {
-  padding-bottom: 30px;
-}
+
 
 .card .card-content p {
   padding: 0 0 0;
@@ -449,9 +447,7 @@ h3 {
 .card.small .card-content, .card.medium .card-content, .card.large .card-content {
   overflow: hidden;
 }
-.card .card-content {
-  padding-bottom: 30px;
-}
+
 .card .card-content {
   padding: 20px;
   -webkit-border-radius: 0 0 2px 2px;
@@ -461,6 +457,7 @@ h3 {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  padding-bottom: 30px;
 }
 *, *:before, *:after {
   box-sizing: inherit;
@@ -470,7 +467,7 @@ h3 {
 }
 .body {
   color: #333;
-  font-size: 18px;
+  font-size: 16px;
 }
 .html {
   font-size: 14px;
@@ -552,11 +549,11 @@ element.style {
 
 .card ul li li {
   color: #666;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .card .card-title {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .card .card-content .card-title {
