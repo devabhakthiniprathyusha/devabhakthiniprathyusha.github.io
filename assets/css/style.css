@@ -125,7 +125,7 @@
 
 body {
   color: #333;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 /* body {
@@ -397,7 +397,7 @@ h3 {
 }
 
 .card .card-content p {
-  padding: 5px 0 0;
+  padding: 0 0 0;
 }
 
 .card h5 {
@@ -427,8 +427,13 @@ h3 {
 }
 
 .card-action span {
-  font-size: 85%;
+  font-size: 16;
   color: #666;
+}
+
+.row .col.m6 {
+  width: 70%;
+  margin-left: 0;
 }
 
 .w-12 {
@@ -542,7 +547,7 @@ element.style {
 .card ul li {
   line-height: 200%;
   list-style-type: disc;
-  margin-left: 24px;
+  margin-left: 16px;
 }
 
 .card ul li li {
@@ -551,7 +556,7 @@ element.style {
 }
 
 .card .card-title {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .card .card-content .card-title {
