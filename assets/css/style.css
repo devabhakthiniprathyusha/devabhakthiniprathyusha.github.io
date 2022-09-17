@@ -16,7 +16,7 @@
 }
 
 .flow-text {
-    font-size: 20px;
+    font-size: 19px;
     line-height: 1.5;
 }
 
@@ -405,7 +405,7 @@ h3 {
 }
 
 .card .card-content p {
-  padding: 5px 0 0;
+  padding: 3px 0 0;
 }
 
 .card h5 {
@@ -455,7 +455,7 @@ h3 {
 }
 
 .card .card-title {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .card .card-content .card-title {
