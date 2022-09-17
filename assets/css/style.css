@@ -59,7 +59,7 @@ p {
   border: 0;
   color: #FFFFFF;
   cursor: pointer;
-  font-size: 30px;
+  font-size: 25px;
   line-height: 70px;
   border-radius: 45px;
   display: inline-block;
@@ -144,31 +144,11 @@ body {
   font-size: 18px;
 }
 
-/* body {
-  color: black;
-  font-size: 18px;
-} */
 
-/* main a -- links */
-
-/* a {
-  color: #009688;
-} */
 
 a {
   color: #004d40;
 }
-
-/* main blockqoute */
-
-/* blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
-  font-size: 125%;
-  font-weight: 400;
-  margin: 20px 0;
-  padding-left: 1.5rem;
-} */
 
 blockquote {
   border-left: 5px solid #795548;
@@ -196,11 +176,6 @@ nav {
   height: 0;
 }
 
-/* nav {
-  background: rgb(149, 126, 212);
-  box-shadow: none;
-  height: 0;
-} */
 
 nav i {
   padding: 0 15px;
@@ -459,7 +434,7 @@ h3 {
 
 .card ul li li {
   color: #666;
-  font-size: 13px;
+  font-size: 18px;
 }
 
 .card .card-title {
@@ -467,7 +442,7 @@ h3 {
 }
 
 .card .card-content .card-title {
-  line-height: 2.5rem;
+  line-height: 1;
 }
 
 .card i.right {
